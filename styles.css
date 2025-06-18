@@ -1,0 +1,18 @@
+
+#title {
+  font-size: 50px;
+  text-align: center;
+}
+#image {
+  width: 300px;
+  max-width: 100%; 
+  height: auto;
+  margin-left: auto; 
+  margin-right: auto;
+  display: block;
+}
+#transition {
+   text-align: center;
+}
+
+
