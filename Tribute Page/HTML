@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      background-color: black;
+      
+    } main {
+      color: white; }
+      
+  </style> 
+  
+</head>
+<main id="main">
+  <h1 id="title">GameJolt</h1>
+  <div id="img-div">
+    <img id="image" src="https://cdn.pulse2.com/cdn/2021/10/Game-Jolt.jpeg">
+    <br>
+    <div id="img-caption">
+      Game Jolt is a social community platform for video games, gamers, and content creators.
+     </div> 
+    <br>
+    <hr> </hr>
+    <br> 
+    <li> The Game Jolt Application Programming Interface (usually known as the GJAPI) allows any developer using a game development platform that supports HTTP operations and MD5 or SHA-1. </li> <br> <br>
+    <li> Game Jolt is a hosting service for freeware and commercial video games with social functions. It is where anyone can create a game, show it off, and build an audience. </li> <br> <br>
+    <li> In March 2022, Game Jolt launched a mobile application simultaneously on the Google Play Store and Apple App Store for Gen Z gamers and creators. </li>
+<br> <br> <br> 
+    <div id="transition"> for more information, look 
+      </element> <a id="tribute-link" style="color: #ccff00;"href="https://gamejolt.com/" target="_blank"> 
+        <element id="tribute-info"> here</element>
+        </a> </div> 
+</main>
